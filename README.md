@@ -36,6 +36,8 @@ Special thanks to @CodeAlpha for this amazing learning opportunity!
 
 📸 Interface Preview
 
+![image] (music.png)
+
 
 🚀 Installation & Usage
 
