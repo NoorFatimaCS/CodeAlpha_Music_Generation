@@ -32,6 +32,8 @@ Interface: CustomTkinter (Modern Desktop UI)
 
 Data Handling: NumPy
 
+Special thanks to @CodeAlpha for this amazing learning opportunity!
+
 📸 Interface Preview
 
 
